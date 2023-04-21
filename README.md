@@ -1,12 +1,12 @@
 # cs-210 Project 3
 
-	This program is designed to analyze text records of items purchased and provide the user with valuable insights. 
+This program is designed to analyze text records of items purchased and provide the user with valuable insights. 
 The three main features are searching for specific item frequency, generating a list of all items with their frequency, 
 and creating a histogram with all items and their frequencies. The user just needs to provide an input text file that 
 contains a list of all items purchased with one item per line. For ease of use the user can modify the constant at the 
 top of the program to change what input file they are reading from and the backup file that they are writing to.
 
-	I designed a good user interface that is easy to use and understand creating a smooth user experience. I have not 
+I designed a good user interface that is easy to use and understand creating a smooth user experience. I have not 
 used maps in C++ before this, so that was probably the most challenging part of this project, but I was able to review 
 the ocumentation and implement a map using best practices. File reading and writing were a large part of this project, 
 and those skills will be very useful and transfer well into other projects and course work. I used in line comments along 
